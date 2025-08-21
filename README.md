@@ -6,6 +6,9 @@
   <a href="https://github.com/Art-Ev/addon-snapserver/blob/main/LICENSE.md"> <img src="https://img.shields.io/badge/licence-mit-green" /></a>
 </p>
 
+# Fork Description
+The orginal repo has been out of maintenance, the source url is unable to use, just update the source url to make sure is can be installed.
+
 ## Contributing
 
 This is an active open-source project. Totally to people who want to
